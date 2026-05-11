@@ -4,4 +4,4 @@ import domainList from './disposable-domains.json';
 // Convert to Set for O(1) lookups
 export const DISPOSABLE_DOMAINS = new Set(domainList);
 
-export const getLastUpdated = () => "2026-05-04T03:25:54.385Z";
+export const getLastUpdated = () => "2026-05-11T03:42:00.493Z";
